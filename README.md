@@ -3,9 +3,6 @@ A PCB with a removable 14500 lithium ion battery for flex sensor finger and thum
 
 ![Fireweed Flex Glove](https://github.com/user-attachments/assets/e64f0504-fbcd-4158-8023-d769b5144841)
 
-## GizmoQC's GitHub for firmware files:
-https://github.com/Guizmo12/gizmoglovesmocap
-
 ## Parts list
 - 2.2 inch flex sensors x5 https://shop.app/p/6077250502849?variantId=42337369194724&utm_source=shop_app&utm_medium=shop_app_share&utm_campaign=share_product&link_alias=jsltZ9lIef5v
 - Male to male jumper wires https://a.co/d/0dMju9wd
@@ -18,5 +15,12 @@ https://github.com/Guizmo12/gizmoglovesmocap
 ## Soldering Livestream
 > Coming soon!
 
-## Firmware flashing guide
+## Firmware Flashing guide
+
+- For connection with the slimeVR server, please select **ConnectToSlime/**
+- Be sure to use the **GizmoSlimeFirmware.ino** file for Arudino IDE
+- Otherwise, please follow all instructions within the GizmoQC GitHub starting with Step 0
+
+## GizmoQC's GitHub for firmware files:
+https://github.com/Guizmo12/gizmoglovesmocap
 
