@@ -1,10 +1,10 @@
 # Fireweed-DIYSlimeVR-Flex-Gloves
-A PCB with a removable 14500 lithium ion battery for flex sensor finger and thumb tracking with SlimeVR. A variant of GizmoQC's flex sensor Finger tracker project
+A PCB with a removable 14500 lithium ion battery for flex sensor finger and thumb tracking with SlimeVR. A variant of GizmoQC's flex sensor Finger tracker project. A collaboration between Milsey, GizmoQC and LocaCola. 
+
+![Fireweed Flex Glove](https://github.com/user-attachments/assets/e64f0504-fbcd-4158-8023-d769b5144841)
 
 ## GizmoQC's GitHub for firmware files:
 https://github.com/Guizmo12/gizmoglovesmocap
-
-![Fireweed Flex Glove](https://github.com/user-attachments/assets/e64f0504-fbcd-4158-8023-d769b5144841)
 
 ## Parts list
 - 2.2 inch flex sensors x5 https://shop.app/p/6077250502849?variantId=42337369194724&utm_source=shop_app&utm_medium=shop_app_share&utm_campaign=share_product&link_alias=jsltZ9lIef5v
@@ -15,5 +15,8 @@ https://github.com/Guizmo12/gizmoglovesmocap
 - 14500 lithium ion battery 
 - Female header pins https://a.co/d/07kqznTs
 
-### Soldering Livestream
+## Soldering Livestream
 > Coming soon!
+
+## Firmware flashing guide
+
