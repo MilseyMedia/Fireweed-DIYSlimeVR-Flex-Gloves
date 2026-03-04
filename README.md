@@ -7,7 +7,7 @@ A PCB with a removable 14500 lithium ion battery for flex sensor finger and thum
 
 
 ## Parts list
-- 2.2 inch flex sensors x5 https://shop.app/p/6077250502849?variantId=42337369194724&utm_source=shop_app&utm_medium=shop_app_share&utm_campaign=share_product&link_alias=jsltZ9lIef5v
+- [2.2 inch flex sensors x5] (https://shop.app/p/6077250502849?variantId=42337369194724&utm_source=shop_app&utm_medium=shop_app_share&utm_campaign=share_product&link_alias=jsltZ9lIef5v)
 - Male to male jumper wires https://a.co/d/0dMju9wd
 - 10kohm resistor x5
 - MSS22D18 6 pin switch x1 
@@ -16,7 +16,7 @@ A PCB with a removable 14500 lithium ion battery for flex sensor finger and thum
 - Female header pins https://a.co/d/07kqznTs
 
 ## Soldering Livestream
-> Coming soon!
+> Streaming Friday, March 6th 2026
 
 ## Firmware Flashing guide
 
