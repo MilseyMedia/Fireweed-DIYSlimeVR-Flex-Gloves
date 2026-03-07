@@ -20,7 +20,7 @@ It is recommended that you use  a SlimeVR tracker for your wrist and hand to imp
 - [30 x 400mm stretchy velcro straps](https://www.aliexpress.com/item/1005006869319882.html?spm=a2g0o.order_list.order_list_main.100.13be1802HgETiE)
 
 ## Soldering Livestream
-> Streaming Friday, March 6th 2026
+> Streaming March 2026
 
 ## Firmware Flashing guide
 
